@@ -1,0 +1,10 @@
+C:\Users\Armando\Source\Repos\-EDD-Tarea3\[EDD]Tarea3\obj\Debug\[EDD]Tarea3.csproj.AssemblyReference.cache
+C:\Users\Armando\Source\Repos\-EDD-Tarea3\[EDD]Tarea3\obj\Debug\_EDD_Tarea3.Properties.Resources.resources
+C:\Users\Armando\Source\Repos\-EDD-Tarea3\[EDD]Tarea3\obj\Debug\[EDD]Tarea3.csproj.GenerateResource.cache
+C:\Users\Armando\Source\Repos\-EDD-Tarea3\[EDD]Tarea3\obj\Debug\[EDD]Tarea3.csproj.CoreCompileInputs.cache
+C:\Users\Armando\source\repos\-EDD-Tarea3\[EDD]Tarea3\bin\Debug\[EDD]Tarea3.exe.config
+C:\Users\Armando\source\repos\-EDD-Tarea3\[EDD]Tarea3\bin\Debug\[EDD]Tarea3.exe
+C:\Users\Armando\source\repos\-EDD-Tarea3\[EDD]Tarea3\bin\Debug\[EDD]Tarea3.pdb
+C:\Users\Armando\source\repos\-EDD-Tarea3\[EDD]Tarea3\obj\Debug\[EDD]Tarea3.exe
+C:\Users\Armando\source\repos\-EDD-Tarea3\[EDD]Tarea3\obj\Debug\[EDD]Tarea3.pdb
+C:\Users\Armando\source\repos\-EDD-Tarea3\[EDD]Tarea3\obj\Debug\arboles_binarios.Form1.resources
